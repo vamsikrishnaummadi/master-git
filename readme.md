@@ -1,2 +1,2 @@
-## git tutorial 
-- using command git branch newbranch sorcebranch
+## Hello git 
+- added new feature
